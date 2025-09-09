@@ -4,7 +4,7 @@
 
 The Student Records System API is a RESTful web service built with Node.js, Express.js, and Prisma. It provides authentication and note management functionality for students.
 
-**Base URL:** `http://localhost:3000` (or your deployed server URL)
+**Base URL:** `https://classroom-nodejs.onrender.com` (or your deployed server URL)
 
 ## Table of Contents
 
